@@ -5,7 +5,7 @@
 
 - 🌱 Currently exploring **Machine Learning**, **AI**, and **Web Development**
 - 💬 Ask me about `Python`, `JavaScript`, `.NET`, or solving real-world problems with code
-- 📫 Reach me at: [aadityapurohit@example.com](mailto:aadityapurohit@example.com)
+- 📫 Reach me at: [adityapurohit71011@gmail.com](mailto:aadityapurohit@example.com)
 
 ---
 
